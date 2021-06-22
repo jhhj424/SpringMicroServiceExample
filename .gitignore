@@ -1,0 +1,10 @@
+# Project exclude paths
+/.gradle/
+/gatewaydemo/build/
+/gatewaydemo/build/classes/java/main/
+/paymentdemo/build/
+/paymentdemo/build/classes/java/main/
+/userdemo/build/
+/userdemo/build/classes/java/main/
+/webbookdemo/build/
+/webbookdemo/build/classes/java/main/
